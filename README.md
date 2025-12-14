@@ -33,8 +33,8 @@ After result is saved to blockchain:
 #### Clone the repo
 
 ```shell
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/0xRustPro/solana-poker-casino-game
+cd solana-poker-casino-game
 ```
 
 #### Install Dependencies
